@@ -1,5 +1,4 @@
-﻿<PORTUGUESE>
-# ATENÇÃO
+# ATENÇÃO/Portuguese
 
 Neste projeto foi usada a versão 7.3.8 do PHP,
 para evitar problemas de compatibilidade,
@@ -36,8 +35,7 @@ instalada no seu computador.
 8 - Faça seu prórpio registro no site, e você poderá cadastrar clientes.
 
 
-<ENGLISH>
-# ATTENTION
+# ATTENTION/English
 
 In this project, was used the 7.3.8 PHP version,
 to avoid compatibility problems,
